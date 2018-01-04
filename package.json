@@ -19,6 +19,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "react-native": "^0.5"
+    "react-native": "^0"
   }
 }
